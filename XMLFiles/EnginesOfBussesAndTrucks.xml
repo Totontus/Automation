@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfEngine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Engine>
+    <Type>Petrol</Type>
+    <SerialNumber>5112-wq</SerialNumber>
+    <PowerInHP>200</PowerInHP>
+    <VolumeDmCubed>40</VolumeDmCubed>
+  </Engine>
+  <Engine>
+    <Type>Petrol</Type>
+    <SerialNumber>4851-sc</SerialNumber>
+    <PowerInHP>180</PowerInHP>
+    <VolumeDmCubed>30</VolumeDmCubed>
+  </Engine>
+</ArrayOfEngine>
