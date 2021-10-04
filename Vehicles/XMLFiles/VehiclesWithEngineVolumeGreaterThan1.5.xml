@@ -17,45 +17,7 @@
       <NumberOfGears>4</NumberOfGears>
       <Manufacturer>Japan</Manufacturer>
     </Transmission>
-    <IsCabriolet>false</IsCabriolet>
-  </Vehicle>
-  <Vehicle xsi:type="Bus">
-    <Engine>
-      <Type>Petrol</Type>
-      <SerialNumber>4851-sc</SerialNumber>
-      <PowerInHP>180</PowerInHP>
-      <VolumeDmCubed>30</VolumeDmCubed>
-    </Engine>
-    <RollingChassis>
-      <NumberOfWheels>4</NumberOfWheels>
-      <Number>1313-wq</Number>
-      <MaxLoadKg>2000</MaxLoadKg>
-    </RollingChassis>
-    <Transmission>
-      <Type>Automatic</Type>
-      <NumberOfGears>3</NumberOfGears>
-      <Manufacturer>Germany</Manufacturer>
-    </Transmission>
-    <PeopleCapacity>40</PeopleCapacity>
-  </Vehicle>
-  <Vehicle xsi:type="Scooter">
-    <Engine>
-      <Type>Diesel</Type>
-      <SerialNumber>4613-gq</SerialNumber>
-      <PowerInHP>80</PowerInHP>
-      <VolumeDmCubed>1.2</VolumeDmCubed>
-    </Engine>
-    <RollingChassis>
-      <NumberOfWheels>2</NumberOfWheels>
-      <Number>9745-jy</Number>
-      <MaxLoadKg>1000</MaxLoadKg>
-    </RollingChassis>
-    <Transmission>
-      <Type>Automatic</Type>
-      <NumberOfGears>2</NumberOfGears>
-      <Manufacturer>China</Manufacturer>
-    </Transmission>
-    <DoesHaveSeat>true</DoesHaveSeat>
+    <IsSportCar>false</IsSportCar>
   </Vehicle>
   <Vehicle xsi:type="Car">
     <Engine>
@@ -74,7 +36,7 @@
       <NumberOfGears>5</NumberOfGears>
       <Manufacturer>USA</Manufacturer>
     </Transmission>
-    <IsCabriolet>true</IsCabriolet>
+    <IsSportCar>true</IsSportCar>
   </Vehicle>
   <Vehicle xsi:type="Truck">
     <Engine>
@@ -94,6 +56,25 @@
       <Manufacturer>Japan</Manufacturer>
     </Transmission>
     <CargoType>Wood</CargoType>
+  </Vehicle>
+  <Vehicle xsi:type="Bus">
+    <Engine>
+      <Type>Petrol</Type>
+      <SerialNumber>4851-sc</SerialNumber>
+      <PowerInHP>180</PowerInHP>
+      <VolumeDmCubed>30</VolumeDmCubed>
+    </Engine>
+    <RollingChassis>
+      <NumberOfWheels>4</NumberOfWheels>
+      <Number>1313-wq</Number>
+      <MaxLoadKg>2000</MaxLoadKg>
+    </RollingChassis>
+    <Transmission>
+      <Type>Automatic</Type>
+      <NumberOfGears>3</NumberOfGears>
+      <Manufacturer>Germany</Manufacturer>
+    </Transmission>
+    <PeopleCapacity>40</PeopleCapacity>
   </Vehicle>
   <Vehicle xsi:type="Scooter">
     <Engine>

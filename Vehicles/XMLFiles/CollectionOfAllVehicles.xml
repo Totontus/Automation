@@ -18,7 +18,7 @@
         <NumberOfGears>4</NumberOfGears>
         <Manufacturer>Japan</Manufacturer>
       </Transmission>
-      <IsCabriolet>false</IsCabriolet>
+      <IsSportCar>false</IsSportCar>
     </Vehicle>
     <Vehicle xsi:type="Car">
       <Engine>
@@ -37,7 +37,7 @@
         <NumberOfGears>5</NumberOfGears>
         <Manufacturer>USA</Manufacturer>
       </Transmission>
-      <IsCabriolet>true</IsCabriolet>
+      <IsSportCar>true</IsSportCar>
     </Vehicle>
     <Vehicle xsi:type="Truck">
       <Engine>
